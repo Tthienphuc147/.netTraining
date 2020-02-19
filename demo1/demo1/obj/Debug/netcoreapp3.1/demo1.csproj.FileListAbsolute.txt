@@ -1,0 +1,11 @@
+D:\tphuc\.net\trainDotnet\demo1\demo1\bin\Debug\netcoreapp3.1\demo1.exe
+D:\tphuc\.net\trainDotnet\demo1\demo1\bin\Debug\netcoreapp3.1\demo1.deps.json
+D:\tphuc\.net\trainDotnet\demo1\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.json
+D:\tphuc\.net\trainDotnet\demo1\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.dev.json
+D:\tphuc\.net\trainDotnet\demo1\demo1\bin\Debug\netcoreapp3.1\demo1.dll
+D:\tphuc\.net\trainDotnet\demo1\demo1\bin\Debug\netcoreapp3.1\demo1.pdb
+D:\tphuc\.net\trainDotnet\demo1\demo1\obj\Debug\netcoreapp3.1\demo1.csprojAssemblyReference.cache
+D:\tphuc\.net\trainDotnet\demo1\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfoInputs.cache
+D:\tphuc\.net\trainDotnet\demo1\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfo.cs
+D:\tphuc\.net\trainDotnet\demo1\demo1\obj\Debug\netcoreapp3.1\demo1.dll
+D:\tphuc\.net\trainDotnet\demo1\demo1\obj\Debug\netcoreapp3.1\demo1.pdb
