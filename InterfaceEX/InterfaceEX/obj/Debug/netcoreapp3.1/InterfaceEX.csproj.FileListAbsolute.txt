@@ -1,0 +1,11 @@
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\obj\Debug\netcoreapp3.1\InterfaceEX.csprojAssemblyReference.cache
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\obj\Debug\netcoreapp3.1\InterfaceEX.AssemblyInfoInputs.cache
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\obj\Debug\netcoreapp3.1\InterfaceEX.AssemblyInfo.cs
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\bin\Debug\netcoreapp3.1\InterfaceEX.exe
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\bin\Debug\netcoreapp3.1\InterfaceEX.deps.json
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\bin\Debug\netcoreapp3.1\InterfaceEX.runtimeconfig.json
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\bin\Debug\netcoreapp3.1\InterfaceEX.runtimeconfig.dev.json
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\bin\Debug\netcoreapp3.1\InterfaceEX.dll
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\bin\Debug\netcoreapp3.1\InterfaceEX.pdb
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\obj\Debug\netcoreapp3.1\InterfaceEX.dll
+D:\tphuc\.net\trainDotnet\InterfaceEX\InterfaceEX\obj\Debug\netcoreapp3.1\InterfaceEX.pdb
